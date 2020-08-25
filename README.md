@@ -1,0 +1,2 @@
+# cruzok
+covid
